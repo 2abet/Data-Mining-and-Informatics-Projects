@@ -1,5 +1,6 @@
 +Projects includes
-- Data Analysis with Pandas, Predicting loan cases using decision trees
+- Data Analysis with Pandas
+- Predicting loan cases using decision trees
 - K-means clustering on COVID-19 datasheet
 - Hierarchical clustering Self-learning on Wolverhampton and Dudley,
 - Market Basket Analysis using Apriori,
